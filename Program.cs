@@ -11,6 +11,7 @@ namespace DemoGitHub_Tom
         static void Main(string[] args)
         {
             Console.WriteLine("bite");
+            Console.WriteLine("bite");
         }
     }
 }
